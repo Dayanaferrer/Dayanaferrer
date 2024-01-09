@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ## <br /> 🙋🏿‍♀️ Connect with me 
 <!-- Badges template - https://github.com/Ileriayo/markdown-badges#social--> 
   <br />
-  <a  href="[[https://www.linkedin.com/in/leonardo-lourenco-0594b1139/](https://www.linkedin.com/in/dayanaferreira0/)](https://www.linkedin.com/in/dayanaferreira0/)"><img align="left" alt="Linkedin" title="Youtube" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a  href="https://www.linkedin.com/in/dayanaferreira0/"><img align="left" alt="Linkedin" title="Youtube" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <br /> 
 
 

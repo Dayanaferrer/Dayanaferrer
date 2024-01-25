@@ -1,13 +1,12 @@
 <h1 align="center">  
 👋🏿👩🏿‍💻 I'm Dayana Ferreira 
-
 </h1>
 
 I am in constant learning...
 <div align="center">
-  <a href="https://github.com/Dayanaferrer">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayanaferrer&layout=compact&theme=react"/>   
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Dayanaferrer&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/Dayanaferrer">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayanaferrer&layout=compact&show_icons=true&theme=midnight-purple&count_private=true"/>   
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Dayanaferrer&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
     
 <div style="display: inline_block"><br>

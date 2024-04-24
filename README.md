@@ -11,16 +11,14 @@ I am in constant learning...
 
 [![My Skills](https://skillicons.dev/icons?i=java,eclipse,spring,js,html,py,django,flask,sqlite,aws,git,gitlab&theme=light)](https://skillicons.dev)
 
-## <br /> <img src="https://media.tenor.com/_DTbF_vWcpYAAAAi/raise-hand-joypixels.gif" width="30">   Connect with me 
+### <br /> <img src="https://media.tenor.com/_DTbF_vWcpYAAAAi/raise-hand-joypixels.gif" width="30">   Connect with me 
 
- <div>
+<div>
 <a href="https://www.linkedin.com/in/dayanaferreira0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://web.dio.me/users/dayanaferreira2"><img src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-B98EFF?style=for-the-badge"></img></a>  
-<a href="https://wa.me/DDI+81+999380505">
+<a href="https://wa.me/5581991053980">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
-
-     
+</a>  
 </div>
 
 

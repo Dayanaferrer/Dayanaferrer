@@ -3,6 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9370db&size=35&center=true&vCenter=true&width=1000&lines=Hi👋🏿,+I'm+DAYANA+FERREIRA+👩🏿‍💻;Welcome+😄+)
 
 I am in constant learning...
+
 <div align="center">
 <a href="https://github.com/Dayanaferrer">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayanaferrer&layout=compact&show_icons=true&theme=midnight-purple&count_private=true"/>   

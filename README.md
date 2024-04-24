@@ -22,6 +22,17 @@ I am in constant learning...
 </a>  
 </div>
 
+##   Vamos continuar a inspirar e celebrar mulheres na tecnologia! 
+
+<a href="https://www.folhape.com.br/especiais/especial-educacao-2022/apoio-das-universidades-na-integracao-ao-mercado-de-trabalho/241491/" style="font-family: Tahoma, sans-serif;">Leia sobre o apoio das universidades na integração ao mercado de trabalho</a>
+
+<a href="https://www.instagram.com/p/CpiDdbDImb6/" style="font-family: Tahoma, sans-serif;">Dia Internacional da Mulher</a>
+
+<a href="https://www.youtube.com/watch?v=rA8eS5ZIMvA&t=9s" style="font-family: Tahoma, sans-serif;">Mulheres na tecnologia: oportunidades e desafios</a> - Estou no Minuto 3:10
+
+
+
+
 
 
 
